@@ -1,0 +1,43 @@
+.product-container {
+  margin-top: 10px;
+}
+
+.container {
+  background: white;
+  padding: 20px;
+}
+
+.product-card {
+  padding: 5px;
+}
+
+.card-img-top {
+
+  height: 300px;
+}
+
+.card-title {
+  height: 48px;
+  overflow: hidden
+}
+
+.card-text {
+  height: 200px;
+}
+
+.product-description {
+  height: 150px;
+  overflow: hidden;
+}
+
+#cart-quantity {
+  margin-right: 5px;
+}
+
+#clear-cart {
+  cursor: pointer;
+}
+
+.product-price {
+  font-size: 24px;
+}
